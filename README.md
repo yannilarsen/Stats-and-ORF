@@ -7,3 +7,6 @@ content, number of sequences, shortest, longest, median, mean) as well as all op
 frames as identified by prodigal.
 
     python Stats-and-ORF.py <input_file.fasta>
+
+
+Result will be statistics displayed to command line, construction of file labeled "FASTA_ORF" in directory
